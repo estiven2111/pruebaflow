@@ -5,7 +5,7 @@ const router = Router();
 router.get("/hola",(req,res)=>{
     console.log("first")
     try {
-     res.status(200).send("hola comossssssssssssss");
+     res.status(200).send("hola dfgdgdf");
     } catch (error) {
     console.log(error)
     }
